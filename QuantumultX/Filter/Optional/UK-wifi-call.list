@@ -6,8 +6,8 @@ host-suffix, ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org, Global Media
 host-suffix, ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org, Global Media
 host-suffix, entsrv-uk.vodafone.com, Global Media
 host-suffix, vuk-gto.prod.ondemandconnectivity.com, Global Media
-ip-cidr,88.82.0.0/19, Global Media
+ip-cidr, 88.82.0.0/19, Global Media
 # CMLinkUK EE
-ip-cidr,46.68.0.0/17, Global Media
+ip-cidr, 46.68.0.0/17, Global Media
 # Giffgaff
-ip-cidr,87.194.0.0/16, Global Media
+ip-cidr, 87.194.0.0/16, Global Media
